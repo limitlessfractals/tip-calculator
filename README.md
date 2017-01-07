@@ -37,7 +37,7 @@ The instant update from clicking did not work. Nothing happened when I tried to 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Wuqiong Fan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
