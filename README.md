@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -26,14 +26,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+version 2:
+<img src='https://i.sli.mg/CvZGEH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+version 1:
 <img src='https://i.imgur.com/x7L7wfw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The instant update from clicking did not work. Nothing happened when I tried to drag "value changed" to the function.
+Updated the app to include settings page. I was able to access the page, but somehow after edits to include defaults, it started to crash.
 
 ## License
 
